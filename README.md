@@ -1,6 +1,10 @@
-# Osagie's Home Lab
+# __Osagie's Home Lab__
 
-### Used for experimenting with new technologies, and self hosting.
+### __Objectives and goals__
+
+- [ ] Build and configure a Network-Attached Storage (NAS) system
+- [ ] Utilize the NAS for data storage, media streaming, and additional services
+- [ ] Enhance skills in system administration, networking, and virtualization
 
 ## Table of Contents
 I.	&nbsp; &nbsp;	**[Hardware Setup](#Hardware-Setup)**<br>
@@ -13,8 +17,6 @@ VII.&nbsp;  	**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
 VIII. 	**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
 IX. &nbsp;  	**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
 X.  &nbsp;&nbsp;   	**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
-
-
 
 # __Hardware Setup__
 
