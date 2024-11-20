@@ -2,13 +2,16 @@
 
 ### Used for experimenting with new technologies, and self hosting.
 
-### __Table of Contents__
+## Table of Contents
+I.	&nbsp; &nbsp;	**[Equipment Used](#Equipment-Used)**<br>
+II.	&nbsp;&nbsp;	**[Services](#Services)**<br>
+III.&nbsp;&nbsp;	**[Usage](#Usage)**<br>
+IV. &nbsp;	**[Compatibility](#compatibility)**<br>
+V.  &nbsp;&nbsp;	**[Notes and Miscellaneous](#notes-and-miscellaneous)**<br>
+VI. &nbsp;	**[Building the Extension Bundles](#building-the-extension-bundles)**<br>
+VII.&nbsp;  	**[Next Steps, Credits, Feedback, License](#next-steps)**<br>
 
-	1. [Equipment Used] (# __Equipment-Used__)
-	2. [Services Provided] (#services)
-	3.
-	4.
-	5.
+
 
 # __Equipment Used__
 
@@ -17,8 +20,13 @@
 	- 2TB HDD of Storage
 	- Linux
 
-# Services 
+# __Services__ 
 
 - Network Attached Storage (NAS)
 - DNS Server
 - VM Playground
+
+# __Usage__
+
+##
+
